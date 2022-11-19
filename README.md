@@ -1,4 +1,5 @@
 # Calculator
 small calculator use (HTML , CSS , JAVA SCRIPT)
-![image](https://user-images.githubusercontent.com/75070096/202866090-7fe58c23-ca46-47e1-922d-02dccc08e380.png)
 
+
+![Capture](https://user-images.githubusercontent.com/75070096/202866131-6dd6e591-caa6-459e-b384-d4dd531a0b36.PNG)
